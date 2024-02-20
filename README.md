@@ -21,4 +21,5 @@ Semplice front di una landing page, realizzata cercando di seguire l'Atomic desi
 Per avviare l'applicazione:
 
 - Navigare alla cartella del progetto con il terminale
+- Installare le dipendenze: `npm i`
 - Avviare l'applicazione inserendo il comando `npm run dev`
